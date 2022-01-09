@@ -1,7 +1,10 @@
 # Python_introduction
-### work for first lab session in BigData course
-### Author: Jingxin FU
-### Date: 09/01/2022
+
+#### work for first lab session in BigData course
+
+#### Author: Jingxin FU
+
+#### Date: 09/01/2022
 
 The contents include 7 parts as follows:
 
